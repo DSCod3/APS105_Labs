@@ -9,6 +9,6 @@ Labs completed in C throughout the APS105 course at the University of Toronto in
 ## 6. Lab 6 - Battleship ( Make a fully functional game of Battleship against an AI
 ## 7. Lab 7 - Reversi/Othello Game (Part 1)
 ## 8. Lab 8 - Reversi/Othello Game (Part 2)
-#    a) Part 1 - Basic Scoring Algorithm (Based on number of tiles flipped)
-#    b) Part 2 - Advanced Scoring Algorithm (Using a minimax algorithm with alpha-beta pruning to look ahead and determine the best move with many heuristics)
+###    a) Part 1 - Basic Scoring Algorithm (Based on number of tiles flipped)
+###    b) Part 2 - Advanced Scoring Algorithm (Using a minimax algorithm with alpha-beta pruning to look ahead and determine the best move with many heuristics)
 ## 9. Lab 9 - Phone Book (Linked Lists, Sorting Algorithms, Data Structures)
